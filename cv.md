@@ -1,6 +1,6 @@
 # Dmitriy Vassilenko
 
-![Me](/img/me.png "Me")
+![Me](https://github.com/Va-D1m/rsschool-cv/blob/gh-pages/Me.png)
 
 ## My contacts:
 
